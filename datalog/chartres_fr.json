@@ -1,0 +1,147 @@
+[
+    [
+        [
+            {
+                "coord": {
+                    "lon": 1.5,
+                    "lat": 48.4167
+                },
+                "weather": [
+                    {
+                        "id": 801,
+                        "main": "Clouds",
+                        "description": "few clouds",
+                        "icon": "02n"
+                    }
+                ],
+                "base": "stations",
+                "main": {
+                    "temp": 288.78,
+                    "feels_like": 288.51,
+                    "temp_min": 288.17,
+                    "temp_max": 288.8,
+                    "pressure": 1008,
+                    "humidity": 81,
+                    "sea_level": 1008,
+                    "grnd_level": 991
+                },
+                "visibility": 10000,
+                "wind": {
+                    "speed": 1.79,
+                    "deg": 246,
+                    "gust": 3.58
+                },
+                "clouds": {
+                    "all": 11
+                },
+                "dt": 1751836050,
+                "sys": {
+                    "type": 2,
+                    "id": 2001998,
+                    "country": "FR",
+                    "sunrise": 1751774403,
+                    "sunset": 1751831826
+                },
+                "timezone": 7200,
+                "id": 3026466,
+                "name": "Arrondissement de Chartres",
+                "cod": 200,
+                "timestamp": "2025-07-06T23:07:46.388879"
+            }
+        ],
+        {
+            "coord": {
+                "lon": 1.5,
+                "lat": 48.4167
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02n"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 288.78,
+                "feels_like": 288.51,
+                "temp_min": 288.17,
+                "temp_max": 288.8,
+                "pressure": 1008,
+                "humidity": 81,
+                "sea_level": 1008,
+                "grnd_level": 991
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.79,
+                "deg": 246,
+                "gust": 3.58
+            },
+            "clouds": {
+                "all": 11
+            },
+            "dt": 1751836050,
+            "sys": {
+                "type": 2,
+                "id": 2001998,
+                "country": "FR",
+                "sunrise": 1751774403,
+                "sunset": 1751831826
+            },
+            "timezone": 7200,
+            "id": 3026466,
+            "name": "Arrondissement de Chartres",
+            "cod": 200,
+            "timestamp": "2025-07-06T23:08:46.496700"
+        }
+    ],
+    {
+        "coord": {
+            "lon": 1.5,
+            "lat": 48.4167
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 288.78,
+            "feels_like": 288.51,
+            "temp_min": 288.17,
+            "temp_max": 288.8,
+            "pressure": 1008,
+            "humidity": 81,
+            "sea_level": 1008,
+            "grnd_level": 991
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.79,
+            "deg": 246,
+            "gust": 3.58
+        },
+        "clouds": {
+            "all": 11
+        },
+        "dt": 1751836050,
+        "sys": {
+            "type": 2,
+            "id": 2001998,
+            "country": "FR",
+            "sunrise": 1751774403,
+            "sunset": 1751831826
+        },
+        "timezone": 7200,
+        "id": 3026466,
+        "name": "Arrondissement de Chartres",
+        "cod": 200,
+        "timestamp": "2025-07-06T23:09:46.643330"
+    }
+]
