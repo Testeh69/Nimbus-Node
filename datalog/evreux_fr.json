@@ -1,100 +1,4 @@
 [
-    [
-        [
-            {
-                "coord": {
-                    "lon": 1.1508,
-                    "lat": 49.0241
-                },
-                "weather": [
-                    {
-                        "id": 804,
-                        "main": "Clouds",
-                        "description": "overcast clouds",
-                        "icon": "04n"
-                    }
-                ],
-                "base": "stations",
-                "main": {
-                    "temp": 289.6,
-                    "feels_like": 289.76,
-                    "temp_min": 289.6,
-                    "temp_max": 289.6,
-                    "pressure": 1009,
-                    "humidity": 94,
-                    "sea_level": 1009,
-                    "grnd_level": 993
-                },
-                "visibility": 10000,
-                "wind": {
-                    "speed": 4.63,
-                    "deg": 280
-                },
-                "clouds": {
-                    "all": 100
-                },
-                "dt": 1751836066,
-                "sys": {
-                    "type": 1,
-                    "id": 6532,
-                    "country": "FR",
-                    "sunrise": 1751774321,
-                    "sunset": 1751832076
-                },
-                "timezone": 7200,
-                "id": 3019265,
-                "name": "Évreux",
-                "cod": 200,
-                "timestamp": "2025-07-06T23:07:46.400034"
-            }
-        ],
-        {
-            "coord": {
-                "lon": 1.1508,
-                "lat": 49.0241
-            },
-            "weather": [
-                {
-                    "id": 804,
-                    "main": "Clouds",
-                    "description": "overcast clouds",
-                    "icon": "04n"
-                }
-            ],
-            "base": "stations",
-            "main": {
-                "temp": 289.6,
-                "feels_like": 289.76,
-                "temp_min": 289.6,
-                "temp_max": 289.6,
-                "pressure": 1009,
-                "humidity": 94,
-                "sea_level": 1009,
-                "grnd_level": 993
-            },
-            "visibility": 10000,
-            "wind": {
-                "speed": 4.63,
-                "deg": 280
-            },
-            "clouds": {
-                "all": 100
-            },
-            "dt": 1751836066,
-            "sys": {
-                "type": 1,
-                "id": 6532,
-                "country": "FR",
-                "sunrise": 1751774321,
-                "sunset": 1751832076
-            },
-            "timezone": 7200,
-            "id": 3019265,
-            "name": "Évreux",
-            "cod": 200,
-            "timestamp": "2025-07-06T23:08:46.515052"
-        }
-    ],
     {
         "coord": {
             "lon": 1.1508,
@@ -102,43 +6,1975 @@
         },
         "weather": [
             {
-                "id": 804,
-                "main": "Clouds",
-                "description": "overcast clouds",
-                "icon": "04n"
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 289.6,
-            "feels_like": 289.76,
-            "temp_min": 289.6,
-            "temp_max": 289.6,
-            "pressure": 1009,
-            "humidity": 94,
-            "sea_level": 1009,
-            "grnd_level": 993
+            "temp": 296.6,
+            "feels_like": 296.38,
+            "temp_min": 295.77,
+            "temp_max": 296.6,
+            "pressure": 1021,
+            "humidity": 53,
+            "sea_level": 1021,
+            "grnd_level": 1006
         },
         "visibility": 10000,
         "wind": {
-            "speed": 4.63,
-            "deg": 280
+            "speed": 3.09,
+            "deg": 20
         },
         "clouds": {
-            "all": 100
+            "all": 0
         },
-        "dt": 1751836066,
+        "dt": 1752179020,
         "sys": {
             "type": 1,
             "id": 6532,
             "country": "FR",
-            "sunrise": 1751774321,
-            "sunset": 1751832076
+            "sunrise": 1752120129,
+            "sunset": 1752177539
         },
         "timezone": 7200,
         "id": 3019265,
         "name": "Évreux",
         "cod": 200,
-        "timestamp": "2025-07-06T23:09:46.637321"
+        "timestamp": "2025-07-10T22:27:26.089357"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.6,
+            "feels_like": 296.38,
+            "temp_min": 295.77,
+            "temp_max": 296.6,
+            "pressure": 1021,
+            "humidity": 53,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179261,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:29:02.335776"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.6,
+            "feels_like": 296.38,
+            "temp_min": 295.77,
+            "temp_max": 296.6,
+            "pressure": 1021,
+            "humidity": 53,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179205,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:31:35.725350"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.6,
+            "feels_like": 296.38,
+            "temp_min": 295.77,
+            "temp_max": 296.6,
+            "pressure": 1021,
+            "humidity": 53,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179205,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:32:35.955605"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.6,
+            "feels_like": 296.38,
+            "temp_min": 295.77,
+            "temp_max": 296.6,
+            "pressure": 1021,
+            "humidity": 53,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179020,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:33:36.231987"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.6,
+            "feels_like": 296.38,
+            "temp_min": 295.77,
+            "temp_max": 296.6,
+            "pressure": 1021,
+            "humidity": 53,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179020,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:34:36.564947"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.6,
+            "feels_like": 296.38,
+            "temp_min": 295.77,
+            "temp_max": 296.6,
+            "pressure": 1021,
+            "humidity": 53,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179020,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:35:36.902756"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.6,
+            "feels_like": 296.38,
+            "temp_min": 295.77,
+            "temp_max": 296.6,
+            "pressure": 1021,
+            "humidity": 53,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179020,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:36:35.997347"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.6,
+            "feels_like": 295.36,
+            "temp_min": 295.6,
+            "temp_max": 295.6,
+            "pressure": 1021,
+            "humidity": 56,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752180280,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:46:36.384729"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.6,
+            "feels_like": 295.36,
+            "temp_min": 294.66,
+            "temp_max": 295.6,
+            "pressure": 1021,
+            "humidity": 56,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752180995,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:56:36.771276"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.6,
+            "feels_like": 295.36,
+            "temp_min": 294.66,
+            "temp_max": 295.6,
+            "pressure": 1021,
+            "humidity": 56,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752181596,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:06:37.067705"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.6,
+            "feels_like": 295.36,
+            "temp_min": 294.66,
+            "temp_max": 295.6,
+            "pressure": 1021,
+            "humidity": 56,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752181596,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:16:37.361816"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 294.6,
+            "feels_like": 294.37,
+            "temp_min": 294.11,
+            "temp_max": 294.6,
+            "pressure": 1021,
+            "humidity": 60,
+            "sea_level": 1021,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752182796,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752120129,
+            "sunset": 1752177539
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:26:37.624766"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 287.6,
+            "feels_like": 287.56,
+            "temp_min": 287.6,
+            "temp_max": 288.55,
+            "pressure": 1020,
+            "humidity": 94,
+            "sea_level": 1020,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752208863,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T06:43:41.342845"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 288.6,
+            "feels_like": 288.5,
+            "temp_min": 288.6,
+            "temp_max": 289.11,
+            "pressure": 1020,
+            "humidity": 88,
+            "sea_level": 1020,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752209620,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T06:53:41.621255"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 288.6,
+            "feels_like": 288.5,
+            "temp_min": 288.6,
+            "temp_max": 289.66,
+            "pressure": 1020,
+            "humidity": 88,
+            "sea_level": 1020,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752210051,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:03:42.863139"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 288.6,
+            "feels_like": 288.5,
+            "temp_min": 288.6,
+            "temp_max": 289.66,
+            "pressure": 1020,
+            "humidity": 88,
+            "sea_level": 1020,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752210822,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:13:43.119780"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.6,
+            "feels_like": 289.6,
+            "temp_min": 289.6,
+            "temp_max": 290.22,
+            "pressure": 1020,
+            "humidity": 88,
+            "sea_level": 1020,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752211282,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:23:43.390208"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.6,
+            "feels_like": 289.6,
+            "temp_min": 289.6,
+            "temp_max": 290.77,
+            "pressure": 1020,
+            "humidity": 88,
+            "sea_level": 1020,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752212022,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:33:43.624571"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.6,
+            "feels_like": 289.6,
+            "temp_min": 289.6,
+            "temp_max": 290.77,
+            "pressure": 1020,
+            "humidity": 88,
+            "sea_level": 1020,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752212463,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:43:43.821099"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 290.6,
+            "feels_like": 290.7,
+            "temp_min": 290.6,
+            "temp_max": 291.33,
+            "pressure": 1020,
+            "humidity": 88,
+            "sea_level": 1020,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 360
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752213222,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:53:44.005783"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.6,
+            "feels_like": 301.38,
+            "temp_min": 301.6,
+            "temp_max": 302.99,
+            "pressure": 1017,
+            "humidity": 42,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752244312,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:32:30.121195"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.6,
+            "feels_like": 301.38,
+            "temp_min": 301.6,
+            "temp_max": 302.99,
+            "pressure": 1017,
+            "humidity": 42,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752244840,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:42:30.300670"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.6,
+            "temp_max": 302.6,
+            "pressure": 1017,
+            "humidity": 39,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752245518,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:52:30.528057"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.6,
+            "temp_max": 302.6,
+            "pressure": 1017,
+            "humidity": 39,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752246150,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:02:31.744088"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.6,
+            "temp_max": 302.6,
+            "pressure": 1018,
+            "humidity": 39,
+            "sea_level": 1018,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752246738,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:12:31.868934"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 301.94,
+            "temp_min": 302.44,
+            "temp_max": 302.6,
+            "pressure": 1018,
+            "humidity": 37,
+            "sea_level": 1018,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.14,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752247350,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:22:32.065571"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 301.94,
+            "temp_min": 302.44,
+            "temp_max": 302.6,
+            "pressure": 1017,
+            "humidity": 37,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.14,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752247951,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:32:32.486070"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 301.94,
+            "temp_min": 302.44,
+            "temp_max": 302.6,
+            "pressure": 1017,
+            "humidity": 37,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.14,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752248444,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:42:32.971342"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.44,
+            "temp_max": 302.6,
+            "pressure": 1017,
+            "humidity": 39,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752248915,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:52:33.476310"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.6,
+            "temp_max": 302.99,
+            "pressure": 1017,
+            "humidity": 39,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752249702,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:02:34.828069"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.6,
+            "temp_max": 302.99,
+            "pressure": 1017,
+            "humidity": 39,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752250354,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:12:36.164243"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 301.94,
+            "temp_min": 302.44,
+            "temp_max": 302.6,
+            "pressure": 1017,
+            "humidity": 37,
+            "sea_level": 1017,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752250863,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:22:36.416644"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 301.94,
+            "temp_min": 302.44,
+            "temp_max": 302.6,
+            "pressure": 1016,
+            "humidity": 37,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752251555,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:32:36.662640"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.44,
+            "temp_max": 302.6,
+            "pressure": 1016,
+            "humidity": 39,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752252155,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:42:36.922780"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.6,
+            "temp_max": 302.6,
+            "pressure": 1016,
+            "humidity": 39,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752252459,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:52:37.178172"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.6,
+            "temp_max": 302.6,
+            "pressure": 1016,
+            "humidity": 39,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752253231,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:02:37.611112"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 302.13,
+            "temp_min": 302.44,
+            "temp_max": 302.6,
+            "pressure": 1017,
+            "humidity": 39,
+            "sea_level": 1017,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752253716,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:12:37.866289"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 301.69,
+            "temp_min": 302.6,
+            "temp_max": 302.6,
+            "pressure": 1017,
+            "humidity": 34,
+            "sea_level": 1017,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752254556,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:22:38.156697"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 301.69,
+            "temp_min": 302.6,
+            "temp_max": 302.6,
+            "pressure": 1016,
+            "humidity": 34,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752255158,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:32:39.450866"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.6,
+            "feels_like": 301.69,
+            "temp_min": 302.6,
+            "temp_max": 302.6,
+            "pressure": 1016,
+            "humidity": 34,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752255663,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:42:39.765088"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.6,
+            "feels_like": 301.15,
+            "temp_min": 301.33,
+            "temp_max": 301.6,
+            "pressure": 1016,
+            "humidity": 39,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.14,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752256236,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:52:40.045749"
+    },
+    {
+        "coord": {
+            "lon": 1.1508,
+            "lat": 49.0241
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.6,
+            "feels_like": 301.15,
+            "temp_min": 301.33,
+            "temp_max": 301.6,
+            "pressure": 1016,
+            "humidity": 39,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.14,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752256807,
+        "sys": {
+            "type": 1,
+            "id": 6532,
+            "country": "FR",
+            "sunrise": 1752206585,
+            "sunset": 1752263898
+        },
+        "timezone": 7200,
+        "id": 3019265,
+        "name": "Évreux",
+        "cod": 200,
+        "timestamp": "2025-07-11T20:02:40.374847"
     }
 ]

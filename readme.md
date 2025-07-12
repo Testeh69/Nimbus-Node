@@ -29,7 +29,8 @@ Tout est centralisé dans le fichier `config/setting.json` :
     "Lille,Fr",
     "Orléans,Fr",
     "Liège,Be"
-  ]
+  ],
+  "time_call_api": 5 /* durée d'appel entre les deux api */
 }
 ```
 
@@ -50,8 +51,12 @@ Depuis le terminal, lancez la collecte avec :
 
 ```
 python main.py
+
+ou
+
+make launch (si make disponible)
 ```
-La collecte s’effectue automatiquement selon le délai défini (par défaut : 1 minute).
+La collecte s’effectue automatiquement selon le délai défini (par défaut : 10 minutes).
 
 ## 📁 Structure du projet
 
@@ -74,7 +79,7 @@ nimbus-node/
 ├── pipeline/            # Pipeline de collecte principale
 │   └── pipeline.py
 │
-├── utils/               # Fonctions utilitaires (ex: parsing, similarité)
+├── file_parsers/        # Function pour parser les fichiers/API
 │
 ├── main.py              # Point d’entrée
 ```
@@ -84,7 +89,7 @@ nimbus-node/
 Clonez ce dépôt :
 
 ```
-    git clone https://github.com/votre_user/nimbus-node.git
+    git clone https://github.com/testeh69/nimbus-node.git
     cd nimbus-node
 
 

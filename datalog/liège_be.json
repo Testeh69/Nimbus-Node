@@ -1,106 +1,4 @@
 [
-    [
-        [
-            {
-                "coord": {
-                    "lon": 5.5675,
-                    "lat": 50.6337
-                },
-                "weather": [
-                    {
-                        "id": 501,
-                        "main": "Rain",
-                        "description": "moderate rain",
-                        "icon": "10n"
-                    }
-                ],
-                "base": "stations",
-                "main": {
-                    "temp": 289.77,
-                    "feels_like": 289.89,
-                    "temp_min": 289.32,
-                    "temp_max": 289.92,
-                    "pressure": 1005,
-                    "humidity": 92,
-                    "sea_level": 1005,
-                    "grnd_level": 986
-                },
-                "visibility": 10000,
-                "wind": {
-                    "speed": 4.12,
-                    "deg": 200
-                },
-                "rain": {
-                    "1h": 1.07
-                },
-                "clouds": {
-                    "all": 40
-                },
-                "dt": 1751835987,
-                "sys": {
-                    "type": 1,
-                    "id": 1249,
-                    "country": "BE",
-                    "sunrise": 1751772793,
-                    "sunset": 1751831483
-                },
-                "timezone": 7200,
-                "id": 2792413,
-                "name": "Liège",
-                "cod": 200,
-                "timestamp": "2025-07-06T23:07:46.396878"
-            }
-        ],
-        {
-            "coord": {
-                "lon": 5.5675,
-                "lat": 50.6337
-            },
-            "weather": [
-                {
-                    "id": 501,
-                    "main": "Rain",
-                    "description": "moderate rain",
-                    "icon": "10n"
-                }
-            ],
-            "base": "stations",
-            "main": {
-                "temp": 289.77,
-                "feels_like": 289.89,
-                "temp_min": 289.32,
-                "temp_max": 289.92,
-                "pressure": 1005,
-                "humidity": 92,
-                "sea_level": 1005,
-                "grnd_level": 986
-            },
-            "visibility": 10000,
-            "wind": {
-                "speed": 4.12,
-                "deg": 200
-            },
-            "rain": {
-                "1h": 1.07
-            },
-            "clouds": {
-                "all": 40
-            },
-            "dt": 1751835987,
-            "sys": {
-                "type": 1,
-                "id": 1249,
-                "country": "BE",
-                "sunrise": 1751772793,
-                "sunset": 1751831483
-            },
-            "timezone": 7200,
-            "id": 2792413,
-            "name": "Liège",
-            "cod": 200,
-            "timestamp": "2025-07-06T23:08:46.504986"
-        }
-    ],
     {
         "coord": {
             "lon": 5.5675,
@@ -108,46 +6,1975 @@
         },
         "weather": [
             {
-                "id": 501,
-                "main": "Rain",
-                "description": "moderate rain",
-                "icon": "10n"
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 289.77,
-            "feels_like": 289.89,
-            "temp_min": 289.32,
-            "temp_max": 289.92,
-            "pressure": 1005,
-            "humidity": 92,
-            "sea_level": 1005,
-            "grnd_level": 986
+            "temp": 293.77,
+            "feels_like": 293.56,
+            "temp_min": 292.14,
+            "temp_max": 294.32,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
         },
         "visibility": 10000,
         "wind": {
-            "speed": 4.12,
-            "deg": 200
-        },
-        "rain": {
-            "1h": 1.07
+            "speed": 2.06,
+            "deg": 30
         },
         "clouds": {
-            "all": 40
+            "all": 0
         },
-        "dt": 1751835987,
+        "dt": 1752179245,
         "sys": {
             "type": 1,
             "id": 1249,
             "country": "BE",
-            "sunrise": 1751772793,
-            "sunset": 1751831483
+            "sunrise": 1752118615,
+            "sunset": 1752176933
         },
         "timezone": 7200,
         "id": 2792413,
         "name": "Liège",
         "cod": 200,
-        "timestamp": "2025-07-06T23:09:46.648847"
+        "timestamp": "2025-07-10T22:27:26.091348"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.81,
+            "feels_like": 293.6,
+            "temp_min": 292.14,
+            "temp_max": 294.88,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179110,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:29:02.337731"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.74,
+            "feels_like": 293.53,
+            "temp_min": 292.14,
+            "temp_max": 293.87,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179494,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:31:35.759946"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.74,
+            "feels_like": 293.53,
+            "temp_min": 292.14,
+            "temp_max": 293.87,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179494,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:32:35.987270"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.77,
+            "feels_like": 293.56,
+            "temp_min": 292.14,
+            "temp_max": 294.32,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179245,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:33:36.249105"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.77,
+            "feels_like": 293.56,
+            "temp_min": 292.14,
+            "temp_max": 294.32,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179245,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:34:36.562840"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.77,
+            "feels_like": 293.56,
+            "temp_min": 292.14,
+            "temp_max": 294.32,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179245,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:35:36.905025"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.77,
+            "feels_like": 293.56,
+            "temp_min": 292.14,
+            "temp_max": 294.32,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179245,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:36:36.017444"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.67,
+            "feels_like": 293.45,
+            "temp_min": 291.58,
+            "temp_max": 293.87,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752180344,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:46:36.382732"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.67,
+            "feels_like": 293.45,
+            "temp_min": 291.03,
+            "temp_max": 293.87,
+            "pressure": 1021,
+            "humidity": 64,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752180849,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:56:36.790432"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.79,
+            "feels_like": 292.59,
+            "temp_min": 291.03,
+            "temp_max": 293.77,
+            "pressure": 1021,
+            "humidity": 68,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752181596,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:06:37.084383"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.79,
+            "feels_like": 292.59,
+            "temp_min": 291.03,
+            "temp_max": 293.77,
+            "pressure": 1021,
+            "humidity": 68,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752181596,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:16:37.364799"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 292.83,
+            "feels_like": 292.63,
+            "temp_min": 291.15,
+            "temp_max": 293.77,
+            "pressure": 1021,
+            "humidity": 68,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 30
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752182675,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752118615,
+            "sunset": 1752176933
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:26:37.619775"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 287.75,
+            "feels_like": 287.72,
+            "temp_min": 286.03,
+            "temp_max": 287.87,
+            "pressure": 1021,
+            "humidity": 94,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.03,
+            "deg": 360
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752209020,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T06:43:41.357844"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 287.75,
+            "feels_like": 287.72,
+            "temp_min": 286.03,
+            "temp_max": 287.87,
+            "pressure": 1021,
+            "humidity": 94,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.03,
+            "deg": 360
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752209517,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T06:53:41.621255"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 288.85,
+            "feels_like": 288.77,
+            "temp_min": 287.81,
+            "temp_max": 288.87,
+            "pressure": 1021,
+            "humidity": 88,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.03,
+            "deg": 0
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752210221,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:03:42.871132"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 288.85,
+            "feels_like": 288.77,
+            "temp_min": 287.81,
+            "temp_max": 288.87,
+            "pressure": 1021,
+            "humidity": 88,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.03,
+            "deg": 0
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752210822,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:13:43.132791"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 288.88,
+            "feels_like": 288.81,
+            "temp_min": 288.77,
+            "temp_max": 289.48,
+            "pressure": 1021,
+            "humidity": 88,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.03,
+            "deg": 0
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752211422,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:23:43.412759"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.87,
+            "feels_like": 289.9,
+            "temp_min": 289.32,
+            "temp_max": 290.04,
+            "pressure": 1021,
+            "humidity": 88,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.03,
+            "deg": 0
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752212022,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:33:43.648101"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.86,
+            "feels_like": 289.88,
+            "temp_min": 289.32,
+            "temp_max": 289.87,
+            "pressure": 1021,
+            "humidity": 88,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.03,
+            "deg": 0
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752212622,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:43:43.830103"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.86,
+            "feels_like": 289.88,
+            "temp_min": 289.48,
+            "temp_max": 289.88,
+            "pressure": 1021,
+            "humidity": 88,
+            "sea_level": 1021,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.03,
+            "deg": 0
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752213117,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:53:44.016692"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.04,
+            "feels_like": 296.95,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752244348,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:32:30.131197"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.04,
+            "feels_like": 296.95,
+            "temp_min": 296.58,
+            "temp_max": 297.5,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752244660,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:42:30.311717"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.16,
+            "feels_like": 297.08,
+            "temp_min": 296.58,
+            "temp_max": 297.81,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752245507,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:52:30.529682"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.19,
+            "feels_like": 297.11,
+            "temp_min": 296.58,
+            "temp_max": 298.21,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752246000,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:02:30.731281"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.19,
+            "feels_like": 297.11,
+            "temp_min": 296.58,
+            "temp_max": 298.21,
+            "pressure": 1019,
+            "humidity": 56,
+            "sea_level": 1019,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 360
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752246750,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:12:31.881606"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.11,
+            "feels_like": 297.02,
+            "temp_min": 296.87,
+            "temp_max": 297.65,
+            "pressure": 1019,
+            "humidity": 56,
+            "sea_level": 1019,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 360
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752247231,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:22:32.070638"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.11,
+            "feels_like": 297.02,
+            "temp_min": 296.87,
+            "temp_max": 297.65,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752247951,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:32:32.479558"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.11,
+            "feels_like": 297.02,
+            "temp_min": 296.87,
+            "temp_max": 297.65,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752248368,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:42:32.965338"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.06,
+            "feels_like": 296.97,
+            "temp_min": 296.58,
+            "temp_max": 297.65,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752249137,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:52:33.497430"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.16,
+            "feels_like": 297.08,
+            "temp_min": 296.58,
+            "temp_max": 297.81,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752249700,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:02:34.829093"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.16,
+            "feels_like": 297.08,
+            "temp_min": 296.58,
+            "temp_max": 297.81,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752250124,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:12:36.161239"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 297.16,
+            "feels_like": 297.08,
+            "temp_min": 296.03,
+            "temp_max": 297.81,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 998
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752250698,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:22:36.418643"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.99,
+            "feels_like": 296.89,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752251455,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:32:36.653554"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.99,
+            "feels_like": 296.89,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752252108,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:42:36.930576"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.99,
+            "feels_like": 296.89,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1017,
+            "humidity": 56,
+            "sea_level": 1017,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752252613,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:52:37.195654"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.99,
+            "feels_like": 296.89,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1017,
+            "humidity": 56,
+            "sea_level": 1017,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752253168,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:02:37.612113"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.97,
+            "feels_like": 296.87,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752253697,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:12:37.865271"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.97,
+            "feels_like": 296.87,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1018,
+            "humidity": 56,
+            "sea_level": 1018,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752254556,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:22:38.152425"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.97,
+            "feels_like": 296.87,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1017,
+            "humidity": 56,
+            "sea_level": 1017,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.63,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752255006,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:32:39.451812"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.99,
+            "feels_like": 296.89,
+            "temp_min": 296.03,
+            "temp_max": 297.5,
+            "pressure": 1017,
+            "humidity": 56,
+            "sea_level": 1017,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752255647,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:42:39.761102"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.92,
+            "feels_like": 296.81,
+            "temp_min": 295.59,
+            "temp_max": 297.5,
+            "pressure": 1017,
+            "humidity": 56,
+            "sea_level": 1017,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752256263,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:52:40.119268"
+    },
+    {
+        "coord": {
+            "lon": 5.5675,
+            "lat": 50.6337
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.92,
+            "feels_like": 296.81,
+            "temp_min": 295.59,
+            "temp_max": 297.5,
+            "pressure": 1017,
+            "humidity": 56,
+            "sea_level": 1017,
+            "grnd_level": 997
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1752256807,
+        "sys": {
+            "type": 1,
+            "id": 1249,
+            "country": "BE",
+            "sunrise": 1752205075,
+            "sunset": 1752263288
+        },
+        "timezone": 7200,
+        "id": 2792413,
+        "name": "Liège",
+        "cod": 200,
+        "timestamp": "2025-07-11T20:02:40.375850"
     }
 ]

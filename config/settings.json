@@ -1,5 +1,6 @@
 {
     "key":"",
-    "city":["Evreux,Fr", "Chartres,Fr", "Lille,Fr", "Orléans,Fr", "Liège,Be"]
-
+    "city":["Evreux,Fr", "Chartres,Fr", "Lille,Fr", "Orléans,Fr", "Liège,Be"],
+    "time_call_api":10,
+    "_comment": "time_call_api is in minutes"
 }

@@ -1,100 +1,4 @@
 [
-    [
-        [
-            {
-                "coord": {
-                    "lon": 1.9039,
-                    "lat": 47.9029
-                },
-                "weather": [
-                    {
-                        "id": 803,
-                        "main": "Clouds",
-                        "description": "broken clouds",
-                        "icon": "04n"
-                    }
-                ],
-                "base": "stations",
-                "main": {
-                    "temp": 290.28,
-                    "feels_like": 290.01,
-                    "temp_min": 290.17,
-                    "temp_max": 290.28,
-                    "pressure": 1009,
-                    "humidity": 75,
-                    "sea_level": 1009,
-                    "grnd_level": 996
-                },
-                "visibility": 10000,
-                "wind": {
-                    "speed": 5.14,
-                    "deg": 280
-                },
-                "clouds": {
-                    "all": 75
-                },
-                "dt": 1751836066,
-                "sys": {
-                    "type": 2,
-                    "id": 2041405,
-                    "country": "FR",
-                    "sunrise": 1751774442,
-                    "sunset": 1751831592
-                },
-                "timezone": 7200,
-                "id": 2989317,
-                "name": "Orléans",
-                "cod": 200,
-                "timestamp": "2025-07-06T23:07:46.402442"
-            }
-        ],
-        {
-            "coord": {
-                "lon": 1.9039,
-                "lat": 47.9029
-            },
-            "weather": [
-                {
-                    "id": 803,
-                    "main": "Clouds",
-                    "description": "broken clouds",
-                    "icon": "04n"
-                }
-            ],
-            "base": "stations",
-            "main": {
-                "temp": 290.28,
-                "feels_like": 290.01,
-                "temp_min": 290.17,
-                "temp_max": 290.28,
-                "pressure": 1009,
-                "humidity": 75,
-                "sea_level": 1009,
-                "grnd_level": 996
-            },
-            "visibility": 10000,
-            "wind": {
-                "speed": 5.14,
-                "deg": 280
-            },
-            "clouds": {
-                "all": 75
-            },
-            "dt": 1751836066,
-            "sys": {
-                "type": 2,
-                "id": 2041405,
-                "country": "FR",
-                "sunrise": 1751774442,
-                "sunset": 1751831592
-            },
-            "timezone": 7200,
-            "id": 2989317,
-            "name": "Orléans",
-            "cod": 200,
-            "timestamp": "2025-07-06T23:08:46.516052"
-        }
-    ],
     {
         "coord": {
             "lon": 1.9039,
@@ -102,43 +6,1976 @@
         },
         "weather": [
             {
-                "id": 803,
-                "main": "Clouds",
-                "description": "broken clouds",
-                "icon": "04n"
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 290.28,
-            "feels_like": 290.01,
-            "temp_min": 290.17,
-            "temp_max": 290.28,
-            "pressure": 1009,
-            "humidity": 75,
-            "sea_level": 1009,
-            "grnd_level": 996
+            "temp": 296.39,
+            "feels_like": 296.02,
+            "temp_min": 296.17,
+            "temp_max": 296.39,
+            "pressure": 1020,
+            "humidity": 48,
+            "sea_level": 1020,
+            "grnd_level": 1006
         },
         "visibility": 10000,
         "wind": {
-            "speed": 5.14,
-            "deg": 280
+            "speed": 3.09,
+            "deg": 40
         },
         "clouds": {
-            "all": 75
+            "all": 0
         },
-        "dt": 1751836066,
+        "dt": 1752179245,
         "sys": {
             "type": 2,
             "id": 2041405,
             "country": "FR",
-            "sunrise": 1751774442,
-            "sunset": 1751831592
+            "sunrise": 1752120242,
+            "sunset": 1752177064
         },
         "timezone": 7200,
         "id": 2989317,
         "name": "Orléans",
         "cod": 200,
-        "timestamp": "2025-07-06T23:09:46.645329"
+        "timestamp": "2025-07-10T22:27:26.090358"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.39,
+            "feels_like": 296.02,
+            "temp_min": 296.17,
+            "temp_max": 296.39,
+            "pressure": 1020,
+            "humidity": 48,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179341,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:29:02.354436"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.84,
+            "feels_like": 295.42,
+            "temp_min": 295.84,
+            "temp_max": 296.17,
+            "pressure": 1020,
+            "humidity": 48,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179494,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:31:35.732917"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.84,
+            "feels_like": 295.42,
+            "temp_min": 295.84,
+            "temp_max": 296.17,
+            "pressure": 1020,
+            "humidity": 48,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179494,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:32:35.988272"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.39,
+            "feels_like": 296.02,
+            "temp_min": 296.17,
+            "temp_max": 296.39,
+            "pressure": 1020,
+            "humidity": 48,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179245,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:33:36.240527"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.39,
+            "feels_like": 296.02,
+            "temp_min": 296.17,
+            "temp_max": 296.39,
+            "pressure": 1020,
+            "humidity": 48,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179245,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:34:36.559839"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.39,
+            "feels_like": 296.02,
+            "temp_min": 296.17,
+            "temp_max": 296.39,
+            "pressure": 1020,
+            "humidity": 48,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179245,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:35:36.898861"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 296.39,
+            "feels_like": 296.02,
+            "temp_min": 296.17,
+            "temp_max": 296.39,
+            "pressure": 1020,
+            "humidity": 48,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752179245,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:36:36.014420"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.84,
+            "feels_like": 295.44,
+            "temp_min": 294.17,
+            "temp_max": 295.84,
+            "pressure": 1020,
+            "humidity": 49,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.54,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752180099,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:46:36.378728"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.28,
+            "feels_like": 294.85,
+            "temp_min": 294.17,
+            "temp_max": 295.28,
+            "pressure": 1020,
+            "humidity": 50,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.54,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752180995,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T22:56:36.778870"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.28,
+            "feels_like": 294.88,
+            "temp_min": 294.17,
+            "temp_max": 295.28,
+            "pressure": 1020,
+            "humidity": 51,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.54,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752181392,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:06:37.081295"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 295.28,
+            "feels_like": 294.88,
+            "temp_min": 294.17,
+            "temp_max": 295.28,
+            "pressure": 1020,
+            "humidity": 51,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.54,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752181392,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:16:37.357804"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 294.73,
+            "feels_like": 294.28,
+            "temp_min": 293.17,
+            "temp_max": 294.73,
+            "pressure": 1020,
+            "humidity": 51,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.57,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752182650,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752120242,
+            "sunset": 1752177064
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-10T23:26:37.621767"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 290.28,
+            "feels_like": 290.06,
+            "temp_min": 288.17,
+            "temp_max": 290.28,
+            "pressure": 1019,
+            "humidity": 77,
+            "sea_level": 1019,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.09,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752208831,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T06:43:41.335845"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 291.39,
+            "feels_like": 291.18,
+            "temp_min": 287.17,
+            "temp_max": 291.39,
+            "pressure": 1019,
+            "humidity": 73,
+            "sea_level": 1019,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752209620,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T06:53:41.621886"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 287.17,
+            "feels_like": 287.08,
+            "temp_min": 287.17,
+            "temp_max": 287.17,
+            "pressure": 1018,
+            "humidity": 94,
+            "sea_level": 1018,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752210221,
+        "sys": {
+            "type": 1,
+            "id": 6534,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:03:42.865136"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 287.17,
+            "feels_like": 287.08,
+            "temp_min": 287.17,
+            "temp_max": 287.17,
+            "pressure": 1018,
+            "humidity": 94,
+            "sea_level": 1018,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752210822,
+        "sys": {
+            "type": 1,
+            "id": 6534,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:13:43.121772"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.17,
+            "feels_like": 289.13,
+            "temp_min": 289.17,
+            "temp_max": 289.17,
+            "pressure": 1018,
+            "humidity": 88,
+            "sea_level": 1018,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752211198,
+        "sys": {
+            "type": 1,
+            "id": 6534,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:23:43.387208"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 289.17,
+            "feels_like": 289.13,
+            "temp_min": 289.17,
+            "temp_max": 289.17,
+            "pressure": 1019,
+            "humidity": 88,
+            "sea_level": 1019,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752211803,
+        "sys": {
+            "type": 1,
+            "id": 6534,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:33:43.640856"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 293.62,
+            "feels_like": 293.42,
+            "temp_min": 289.17,
+            "temp_max": 293.62,
+            "pressure": 1019,
+            "humidity": 65,
+            "sea_level": 1019,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752212336,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:43:43.820105"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 294.17,
+            "feels_like": 293.97,
+            "temp_min": 290.17,
+            "temp_max": 294.17,
+            "pressure": 1019,
+            "humidity": 63,
+            "sea_level": 1019,
+            "grnd_level": 1005
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.06,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752213222,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T07:53:44.017726"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.95,
+            "feels_like": 301.32,
+            "temp_min": 301.95,
+            "temp_max": 303.17,
+            "pressure": 1016,
+            "humidity": 37,
+            "sea_level": 1016,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.81,
+            "deg": 81,
+            "gust": 6.26
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752244202,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:32:30.118196"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.95,
+            "feels_like": 301.24,
+            "temp_min": 301.95,
+            "temp_max": 303.17,
+            "pressure": 1016,
+            "humidity": 36,
+            "sea_level": 1016,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752244685,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:42:30.306719"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.95,
+            "feels_like": 301.1,
+            "temp_min": 301.95,
+            "temp_max": 303.17,
+            "pressure": 1016,
+            "humidity": 34,
+            "sea_level": 1016,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752245549,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T16:52:30.539587"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.95,
+            "feels_like": 301.1,
+            "temp_min": 301.95,
+            "temp_max": 303.17,
+            "pressure": 1016,
+            "humidity": 34,
+            "sea_level": 1016,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752246013,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:02:30.726095"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.95,
+            "feels_like": 301.24,
+            "temp_min": 301.95,
+            "temp_max": 303.17,
+            "pressure": 1016,
+            "humidity": 36,
+            "sea_level": 1016,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.66,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752246750,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:12:31.875557"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.6,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1016,
+            "humidity": 34,
+            "sea_level": 1016,
+            "grnd_level": 1002
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.17,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752247350,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:22:32.069720"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.6,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 34,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.17,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752247951,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:32:32.478558"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.6,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 34,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.17,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752248417,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:42:32.969340"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.6,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 34,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.17,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752249149,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T17:52:33.500448"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.6,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 34,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.17,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752249604,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:02:34.832091"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.6,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1016,
+            "humidity": 34,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.17,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752250354,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:12:36.169861"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.67,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1016,
+            "humidity": 35,
+            "sea_level": 1016,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.69,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752250772,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:22:36.419646"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.95,
+            "feels_like": 301.17,
+            "temp_min": 301.95,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 35,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.69,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752251555,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:32:36.674205"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.76,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 36,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 7.2,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752252155,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:42:36.932576"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.76,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 36,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 7.2,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752252687,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T18:52:37.199402"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 301.95,
+            "feels_like": 301.24,
+            "temp_min": 301.95,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 36,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 7.2,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752253272,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:02:37.661372"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 302.5,
+            "feels_like": 301.76,
+            "temp_min": 302.5,
+            "temp_max": 303.17,
+            "pressure": 1015,
+            "humidity": 36,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 7.2,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752253687,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:12:37.863289"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 303.06,
+            "feels_like": 302.05,
+            "temp_min": 302.17,
+            "temp_max": 303.06,
+            "pressure": 1015,
+            "humidity": 33,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.69,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752254556,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:22:38.165232"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 303.06,
+            "feels_like": 302.14,
+            "temp_min": 302.17,
+            "temp_max": 303.06,
+            "pressure": 1015,
+            "humidity": 34,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.69,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752255158,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:32:39.449286"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 303.62,
+            "feels_like": 302.71,
+            "temp_min": 302.17,
+            "temp_max": 303.62,
+            "pressure": 1015,
+            "humidity": 34,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.69,
+            "deg": 60
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752255603,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:42:39.752549"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 303.06,
+            "feels_like": 302.05,
+            "temp_min": 302.17,
+            "temp_max": 303.06,
+            "pressure": 1015,
+            "humidity": 33,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.69,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752256325,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T19:52:40.124245"
+    },
+    {
+        "coord": {
+            "lon": 1.9039,
+            "lat": 47.9029
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 303.06,
+            "feels_like": 302.14,
+            "temp_min": 302.17,
+            "temp_max": 303.06,
+            "pressure": 1015,
+            "humidity": 34,
+            "sea_level": 1015,
+            "grnd_level": 1001
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.69,
+            "deg": 50
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1752256945,
+        "sys": {
+            "type": 2,
+            "id": 2041405,
+            "country": "FR",
+            "sunrise": 1752206696,
+            "sunset": 1752263426
+        },
+        "timezone": 7200,
+        "id": 2989317,
+        "name": "Orléans",
+        "cod": 200,
+        "timestamp": "2025-07-11T20:02:40.382639"
     }
 ]
